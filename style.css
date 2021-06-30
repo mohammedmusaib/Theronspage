@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: serif;
+}
+/* top right bar */
+.topbar{
+    background-color: rgb(255, 255, 255);
+    /* height: 20%; */
+    width: 85%;
+   float: right;
+   padding: 20px 0px;
+   
+}
+
+a{
+    margin: 0px 0px;
+    text-decoration: none;
+    
+}
+.a1{
+    margin: 0px 20px;
+    margin-right: 0px;
+    text-decoration: none;
+
+}
+.login{
+   margin-left: 700px;
+  
+}
+/* Talk Article bar */
+
+.d1{
+    border: outset rgb(148, 193, 245) 1px;
+    padding: 10px 0px;
+    /* background-color: blueviolet; */
+    width: 15%;
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+
+}
+.d2{
+    border: outset rgb(148, 193, 245) 1px;
+    padding: 10px 10px;
+    /* background-color: blueviolet; */
+    width: 60%;
+    display: inline-block;
+    
+    margin-top: 5px;
+
+}
+.d3{
+    border: outset rgb(148, 193, 245) 1px;
+    padding: 10px 10px;
+    width: 20%;
+    display: inline-block;
+    margin-top: 5px;
+}
+.name{
+    font-family: 'Castoro', serif;;
+}
+.passage{
+    display: inline-block;
+}
+.nm{
+    width: 30px;
+
+}
+.leftbar{
+    width: 15%;
+    background-color: rgb(255, 255, 255);
+    float: left;
+}
+.Contents{
+    margin-right: 400px;
+    display: inline-block;
+    margin-left: 40px;
+    
+}
+.list{
+    margin-left: 40px;
+  list-style-type: none;
+  
+
+}
